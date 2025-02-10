@@ -1,4 +1,4 @@
-![Profile Image](https://raw.githubusercontent.com/KingLeoJr/KingLeoJr/refs/heads/main/VSC.png)
+![Profile Image](https://raw.githubusercontent.com/KingLeoJr/KingLeoJr/refs/heads/main/VSCode-Extensions-100225.png)
 
 https://marketplace.visualstudio.com/publishers/Kingleo
 
