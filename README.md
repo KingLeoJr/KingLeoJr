@@ -3,3 +3,9 @@
 
 
 https://marketplace.visualstudio.com/publishers/Kingleo
+
+
+![GitHub followers](https://img.shields.io/github/followers/KingleoJr?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/KingleoJr?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![trophy](https://github-profile-trophy.vercel.app/?username=KingleoJr)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KingleoJr)
